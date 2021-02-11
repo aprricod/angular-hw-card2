@@ -1,0 +1,15 @@
+table {
+  border: 1px solid;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td {
+  border: 1px solid;
+  padding: 5px;
+  text-align: center;
+}
+
+.rainbow {
+    width: 150px;
+}
